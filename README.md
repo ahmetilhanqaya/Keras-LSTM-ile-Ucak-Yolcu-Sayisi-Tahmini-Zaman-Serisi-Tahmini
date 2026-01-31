@@ -13,3 +13,5 @@ Output Katmanı: 1 nöron (Tahmin edilen yolcu sayısı).
 
 Sonuçlar
 Model, eğitim sonrasında test verileri üzerinde gerçek yolcu sayıları ile tahmin edilen sayıları karşılaştıran bir grafik üretir. Bu grafik üzerinden modelin başarısı gözlemlenebilir.
+
+![Model Tahmin Sonuçları](sonuc_grafigi.png)
